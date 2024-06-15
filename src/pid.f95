@@ -1,11 +1,16 @@
+module pid 
+  implicit none
+  private 
+  public :: calculate
+  
 
+  contains
+  function compute
 
-
-
-
-
-
+    end function compute 
+  end module pid
 program main
+
   implicit none
   
   ! Global Consts
